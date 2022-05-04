@@ -1,0 +1,26 @@
+{
+  "name": "snipper",
+  "displayName": "Snipper",
+  "description": "Javascript Code Snippets",
+  "version": "0.0.1",
+  "icon": "images/logo.png",
+  "publisher": "RimonAhmed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rimonians/snipjs"
+  },
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
