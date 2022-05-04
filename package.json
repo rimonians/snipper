@@ -7,7 +7,7 @@
   "publisher": "RimonAhmed",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rimonians/snipjs"
+    "url": "https://github.com/rimonians/snipper"
   },
   "engines": {
     "vscode": "^1.66.0"
